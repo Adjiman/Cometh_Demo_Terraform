@@ -29,7 +29,7 @@ Une imbrication de puce
   * sous-élément 2
 
 Afficher un bout de code
-'le bout de code'
+`le bout de code`
 
 
 
