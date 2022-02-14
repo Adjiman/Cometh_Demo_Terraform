@@ -1,4 +1,4 @@
-__#ROADMAP ACCOMPAGNEMENT INGENERIE DEVOPS#__
+#ROADMAP ACCOMPAGNEMENT INGENERIE DEVOPS#
 
 Cette roadmap contient la stratégie DevOps à mettre en place en 2 mois. L'objectif de la mission serait de mettre en place un ecosystème qui permet au developpeurs de se concentrer sur le code à produire, d'itérer sa mise en production à chaque commit, et lancer le jeu dans sa phase post-production.   
 Tout cela va s'inscrire dans la stratégie globale déjà mis en place avant ma prise de fonction.
