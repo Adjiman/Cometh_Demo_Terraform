@@ -15,7 +15,12 @@ Outils et services associés: Nous avons 4 outils à installer, une fois un comp
 
 1. Cloud Platform Console: Il s'agit de l'interface graphique qui est l'outil de visualisation pour directement voir l'état des ressources par exemple si une machine est on ou down.
 
-2. Cloud SDK qui est l'outil de ligne de commande gcoud pour configurer le perimètre d'organisation lié à un compte de facturation, créer le projet d'administration Terraform, créer le compte service Terraform et ajouter les autorisations au niveau de l'organisation, des dossiers, des sous-dossiers et des projets afin de definr le perimètres de sécurité suivant une hiérachie. Cela permet se savoir les droits de lecture, d'écriture, de mise à jour ou de suppressions autorisés à des utilisateurs selon les directives du CTO et/ou VP engineering.
+2. Cloud SDK qui est l'outil de ligne de commande gcoud pour: 
+
+* configurer le perimètre d'organisation lié à un compte de facturation 
+* créer le projet d'administration Terraform 
+* créer le compte service Terraform 
+* Ajouter les autorisations au niveau de l'organisation, des dossiers, des sous-dossiers et des projets afin de definr le perimètres de sécurité suivant une hiérachie. Cela permet se savoir les droits de lecture, d'écriture, de mise à jour ou de suppressions autorisés à des utilisateurs selon les directives du CTO et/ou VP engineering.
 
 3. Cloud Console Mobile App, qui est une application mobile disponible sur Android et IOS. C'est un moyen qui nous permet d'acceder rapidemant à certaines informations pertinentes par exemple la facturation, l'état des ressources, la reception des alertes, .... Par exemple pour un collaborateur qui est en astreinte, et qui dispose de quelques droits, peut avoir un apercu rapide par rapport à ce ce qui se passe.  
 4. Terraform, qui est est outil open-source qui servira à communiquer avec les RESTful API des ressources pour créer à distance les dits ressources dont nous aurons besoin pour deployer notre notre code front-end et back-end qui communiquera avec l'ecosytème euthereum. Donc avec Terraform, nous allons accéder aux produits et ressources du cloud GCP par programmation. Avec les commandes terraform init, plan, play & destroy, nous pourrions inspecter, créer ou detruire notre infrastructure en queques minutes. La documentation est très bien fournir pour chque ressource à créee.  
